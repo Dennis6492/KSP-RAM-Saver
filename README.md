@@ -1,3 +1,5 @@
+KSP-RAM-Saver
+=============
 Unzip "KSP RAM Saver.exe" on KSP root folder (were KSP.exe is)
 Run "KSP RAM Saver.exe", a black window should appear, KSP should open in a few seconds, after that you can close the black window.
 Enjoy your buffed up KSP!
