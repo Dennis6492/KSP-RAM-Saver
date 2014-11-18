@@ -1,0 +1,18 @@
+Changelog
+=============
+
+18/11/2014
+
+Version 2.0 Released
+-Now user can choose which API to use,even screen modes
+-"Express" version included
+
+Version 1.0 Renamed to "Express"
+License got updated
+
+-------------
+
+27/10/2014
+
+Version 1.0 Released
+Initial release
