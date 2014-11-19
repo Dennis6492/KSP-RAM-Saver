@@ -9,4 +9,4 @@ Tested on KSP 0.25, may as well work for older versions.
 May not perform well on all systems.
 Does not modify any file, it does not messes with anything, just tells KSP how to run.
 
-If this is too complicated for you, or just want the program to work on its own you can download the "express" version here https://mega.co.nz/#!sgtVnSIL!CYeIvay3YIfpaD5-YXN8R5LkwBu5p7VqJE2BHi3cQWs
+If this is too complicated for you, or just want the program to work on its own you can download the "express" version here https://mega.co.nz/#!c01RmYCa!cplL_jXVGv6E20QTBD_yS1ZvMp0Ok_W_rjSlrdsaYOk
